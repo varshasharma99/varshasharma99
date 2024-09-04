@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @varshasharma99
-Hello, 
-As a Game Developer with 5+ years of experience in game development and freelancing i can assure you that With my experience in Game Development I can provide you Stunning Games. I concentrate on delivering high quality code, graphics, functionality and polished gameplay in every game which I developed. 
+- 👋 Hi, I’m Varsha Sharma
+ Top rated developers on Upwork, with a job success score of 100% and 5+ years of experience in game design and development,
+ I can assure you that With my experience in Game Development I can provide you Stunning Games. I concentrate on delivering high quality code, graphics, functionality and polished gameplay in every game which I developed. 
 
 Customer satisfaction and Delivering High Quality work to my clients is My Top Most Priority 
 So message me with your idea so we can start work on it to make it a reality!
@@ -15,8 +15,7 @@ I can develop games of any genre like:
 *                  Platformers
 * 		             Rpg
 *                  Racing	
-*                 	Space Shooters
-i also do 2d & 3d assets design if you need them for your game.
+*                  Space Shooters
 
 Portfolio links are
 
